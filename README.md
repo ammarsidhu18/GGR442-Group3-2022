@@ -1,4 +1,4 @@
-# The Relationship Between NO₂ and NDVI in Peel Region at the Dissemination Level
+# The Relationship Between NO₂ and NDVI in Peel Region at the Dissemination Level during 2006 to 2016
 
 * GGR 442 (Fall 2022) - GIS Capstone Project @ University of Toronto Mississauga 
 
